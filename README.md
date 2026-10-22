@@ -14,4 +14,4 @@ Dashboard interativo com 49k jogos e 47k gols da história das seleções.
 - 80-90 min é o intervalo com mais gols na história
 - Ronaldo (Fenômeno) lidera o Brasil no dataset com 39 gols
 
-[Link pro dashboard aqui]
+<u>[Dashboard](https://5xm2dzkcy8x78gkvuxhiqf.streamlit.app)</u>
